@@ -1,5 +1,4 @@
 # Machine-Learning-Realization-Coursera-Lab
-# Machine Learning Specialization Coursera
 
 
 ![](/resources/title-head.png)
