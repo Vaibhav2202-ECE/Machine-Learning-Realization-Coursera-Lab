@@ -1,1 +1,1 @@
-This contains all the files related to optional labs present and lab assignment solutions present in advanced learning algorithm course in specialization of machine learning by instructor andrew ng Deep Learning.AI on coursera
+This contains all the files related to optional labs and lab assignment solutions present in advanced learning algorithm course by specialization of machine learning by instructor andrew ng Deep Learning.AI on coursera
